@@ -1,0 +1,139 @@
+.option-zero{ display:none;
+}
+.option-zero-screen{ display:none;
+}
+.option-one{
+    
+}
+
+.option-two{
+    
+}
+.option-one-screen{
+    display:none;
+}
+
+.option-two-screen{
+    display:none;
+}
+.option-three-screen{
+    display:none;
+}
+.option-three{
+display:none;
+}
+.option-four-screen{
+    display:none;
+}
+.option-four{
+    display:none;
+}
+.option-five{
+    display:none;
+}
+.option-five-screen{
+    display:none;
+}
+.option-six{
+    display:none;
+}
+.option-six-screen{
+    display:none;
+}
+.option-seven{
+    display:none;
+}
+.option-seven-screen{
+    display:none;
+}
+.option-eight-screen{
+display:none;
+}
+
+h1+p a:hover {
+	text-decoration: none;
+}
+h2 {
+	margin: 60px 15px 0;
+	padding: 0;
+	font-weight: 300;
+}
+h2 span {
+	margin-left: 1em;
+	color: #aaa;
+    font-size: 85%;}
+body {
+    text-align: center;
+
+}
+
+img {
+    width: 350px;
+
+}
+
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+
+/* 
+.story-opening{
+   display:none;
+}
+*/
+
+/* 
+.buttons{
+   display:none;
+}
+*/
+
+/* 
+.open-one-screen{
+   display:none;
+}
+*/
+
+/* 
+.open-two-screen{
+   display:none;
+}
+*/
+
+/* 
+.open-one-end{
+   display:none;
+}
+*/
+
+/* 
+.open-two-end{
+   display:none;
+}
+*/
